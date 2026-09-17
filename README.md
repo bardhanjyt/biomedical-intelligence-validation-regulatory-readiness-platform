@@ -1,5 +1,4 @@
 # Federated Scientific Intelligence & Regulatory Readiness Platform
-## Premium Principal AI Architect Architecture Case Study — V2
 
 An anonymized, architecture-first enterprise case study for a greenfield scientific intelligence, validation and regulatory-readiness platform.
 
