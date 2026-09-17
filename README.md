@@ -1,5 +1,7 @@
 # Federated Scientific Intelligence & Regulatory Readiness Platform
 
+> **Architecture Case Study — Principal AI Architect | AI Platforms & Distributed Systems**
+
 An anonymized, architecture-first enterprise case study for a greenfield scientific intelligence, validation and regulatory-readiness platform.
 
 This package is intentionally structured to match the **depth and presentation model of the Enterprise Agentic AI flagship architecture case study**: executive mandate → evidence map → rendered architecture evidence → deep technical case study → architecture lifecycle → requirements/NFRs → constraints and trade-offs → detailed boundaries → runtime engineering → security → observability/SRE → evaluation → red teaming → auditability → cloud/IaC → production evidence → Principal Architect narrative.
